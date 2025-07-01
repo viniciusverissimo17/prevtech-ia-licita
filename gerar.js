@@ -1,0 +1,1 @@
+// API route para simulação
